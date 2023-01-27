@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build-css": "tailwindcss build src/input.css -o src/input.css"
+    
   },
   "keywords": [],
   "author": "",
